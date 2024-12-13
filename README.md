@@ -2,7 +2,7 @@
 ## I'm generic (all lowercase, please)!
 
 ![img](https://readme-typing-svg.demolab.com/?font=Fredoka+One&pause=1000&random=false&width=435&lines=fullstack+and+python+dev;malware+stuff;creator+of+colon+three+unblocked+games)
-[![Discord](https://img.shields.io/badge/Discord-Online%20Members-00b0f4?style=for-the-badge&logo=discord&logoColor=white&color=00b0f4&label=50%20Online)
+![Discord](https://img.shields.io/badge/Discord-Online%20Members-00b0f4?style=for-the-badge&logo=discord&logoColor=white&color=00b0f4&label=50%20Online)
 ---
 ## 🌟 About Me
 - 🧑‍💻 **Languages I Code In**: HTML, CSS, JavaScript, Lua, Python
