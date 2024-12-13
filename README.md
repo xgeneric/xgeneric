@@ -1,6 +1,7 @@
 # Welcome to my profile!
 ## I'm generic (all lowercase, please)!
 
+
 ![img](https://readme-typing-svg.demolab.com/?font=Fredoka+One&pause=1000&random=false&width=435&lines=fullstack+and+python+dev;malware+stuff;creator+of+colon+three+unblocked+games)
 
 
