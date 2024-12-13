@@ -14,7 +14,7 @@
 ---
 
 ---
-## 🌐 Languagse I can code in
+## 🌐 Languages I can code in
 - HTML, CSS, JavaScript, Lua, Python
 ---
 
