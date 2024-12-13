@@ -6,7 +6,6 @@
 ---
 ## 🌟 About Me
 - 🧑‍💻 **Languages I Code In**: HTML, CSS, JavaScript, Lua, Python
-- 🔐 **Specialty**: Decompiling malware and creating solutions for it
 - 📖 **Faith**: Christian
 - 🍔 **Favorite Food**: Cheeseburgers & Cheese Fries (I like cheese, if you can't tell)
 - 🌌 **Night Owl**: The night resonates with me more than the day
